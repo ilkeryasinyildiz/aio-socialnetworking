@@ -1,0 +1,1 @@
+This website project gathers all information from popular social networking sites like Facebook, Twitter, FourSquare, LinkedIn and GooglePlus and shows all together in one user friendly interface.
